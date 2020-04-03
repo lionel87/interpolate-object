@@ -1,6 +1,6 @@
 {
   "name": "interpolate-object",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Deep iterate through a given object or array and interpolate each string value in it.",
   "keywords": [
     "string interpolation",
@@ -19,6 +19,6 @@
   "author": "László Bulik",
   "license": "MIT",
   "dependencies": {
-    "interpolate-string": "^1.0.1"
+    "interpolate-string": "^1.3.0"
   }
 }
